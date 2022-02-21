@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\User Samsung\source\repos\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\User Samsung\source\repos\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\User Samsung\source\repos\Loop\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Loop\Loop\obj\Debug\Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\User Samsung\source\repos\Loop\Loop\obj\Debug\Loop.pdb
