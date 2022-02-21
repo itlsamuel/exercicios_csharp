@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformarMaiusculas", "TransformarMaiusculas\TransformarMaiusculas.csproj", "{F5EB8325-085B-40A7-ADA5-C4E9888BF094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EB8325-085B-40A7-ADA5-C4E9888BF094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EB8325-085B-40A7-ADA5-C4E9888BF094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EB8325-085B-40A7-ADA5-C4E9888BF094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EB8325-085B-40A7-ADA5-C4E9888BF094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DE2CAA-C5E3-47D1-B7E8-CB95EF9CFB83}
+	EndGlobalSection
+EndGlobal

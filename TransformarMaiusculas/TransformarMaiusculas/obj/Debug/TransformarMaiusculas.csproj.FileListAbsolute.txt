@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\bin\Debug\TransformarMaiusculas.exe.config
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\bin\Debug\TransformarMaiusculas.exe
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\bin\Debug\TransformarMaiusculas.pdb
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\obj\Debug\TransformarMaiusculas.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\obj\Debug\TransformarMaiusculas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\obj\Debug\TransformarMaiusculas.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\obj\Debug\TransformarMaiusculas.exe
+C:\Users\User Samsung\source\repos\TransformarMaiusculas\TransformarMaiusculas\obj\Debug\TransformarMaiusculas.pdb
