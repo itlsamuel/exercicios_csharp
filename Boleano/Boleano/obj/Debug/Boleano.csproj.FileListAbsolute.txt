@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Boleano\Boleano\bin\Debug\Boleano.exe.config
+C:\Users\User Samsung\source\repos\Boleano\Boleano\bin\Debug\Boleano.exe
+C:\Users\User Samsung\source\repos\Boleano\Boleano\bin\Debug\Boleano.pdb
+C:\Users\User Samsung\source\repos\Boleano\Boleano\obj\Debug\Boleano.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Boleano\Boleano\obj\Debug\Boleano.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Boleano\Boleano\obj\Debug\Boleano.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Boleano\Boleano\obj\Debug\Boleano.exe
+C:\Users\User Samsung\source\repos\Boleano\Boleano\obj\Debug\Boleano.pdb
