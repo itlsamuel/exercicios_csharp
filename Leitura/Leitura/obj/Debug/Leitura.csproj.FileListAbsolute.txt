@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Leitura\Leitura\bin\Debug\Leitura.exe.config
+C:\Users\User Samsung\source\repos\Leitura\Leitura\bin\Debug\Leitura.exe
+C:\Users\User Samsung\source\repos\Leitura\Leitura\bin\Debug\Leitura.pdb
+C:\Users\User Samsung\source\repos\Leitura\Leitura\obj\Debug\Leitura.exe
+C:\Users\User Samsung\source\repos\Leitura\Leitura\obj\Debug\Leitura.pdb
