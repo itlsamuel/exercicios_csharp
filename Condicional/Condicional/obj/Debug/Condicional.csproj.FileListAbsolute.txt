@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Condicional\Condicional\bin\Debug\Condicional.exe.config
+C:\Users\User Samsung\source\repos\Condicional\Condicional\bin\Debug\Condicional.exe
+C:\Users\User Samsung\source\repos\Condicional\Condicional\bin\Debug\Condicional.pdb
+C:\Users\User Samsung\source\repos\Condicional\Condicional\obj\Debug\Condicional.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Condicional\Condicional\obj\Debug\Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Condicional\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Condicional\Condicional\obj\Debug\Condicional.exe
+C:\Users\User Samsung\source\repos\Condicional\Condicional\obj\Debug\Condicional.pdb
