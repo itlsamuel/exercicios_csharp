@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\String\String\bin\Debug\String.exe.config
+C:\Users\User Samsung\source\repos\String\String\bin\Debug\String.exe
+C:\Users\User Samsung\source\repos\String\String\bin\Debug\String.pdb
+C:\Users\User Samsung\source\repos\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\String\String\obj\Debug\String.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\String\String\obj\Debug\String.exe
+C:\Users\User Samsung\source\repos\String\String\obj\Debug\String.pdb
