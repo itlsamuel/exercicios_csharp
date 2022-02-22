@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\bin\Debug\Dia_e_Hora.exe.config
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\bin\Debug\Dia_e_Hora.exe
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\bin\Debug\Dia_e_Hora.pdb
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\obj\Debug\Dia_e_Hora.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\obj\Debug\Dia_e_Hora.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\obj\Debug\Dia_e_Hora.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\obj\Debug\Dia_e_Hora.exe
+C:\Users\User Samsung\source\repos\Dia_e_Hora\Dia_e_Hora\obj\Debug\Dia_e_Hora.pdb
