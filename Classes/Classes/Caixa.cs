@@ -12,6 +12,13 @@
         {
             return lado * lado * lado;
         }
+
+        public static int area()
+        {
+            int l = 2;
+            int a = l*l;
+            return a;
+        }
     }
 
 }

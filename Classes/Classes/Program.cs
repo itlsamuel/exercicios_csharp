@@ -14,6 +14,9 @@ namespace Classes
             double volumeCaixa;
             volumeCaixa = cx.Volume();
             Console.WriteLine(volumeCaixa.ToString());
+
+            Console.WriteLine(Caixa.area().ToString());
+
             Console.ReadKey();
         }
     }
