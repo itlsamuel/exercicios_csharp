@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\bin\Debug\ListaSimples.exe.config
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\bin\Debug\ListaSimples.exe
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\bin\Debug\ListaSimples.pdb
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\obj\Debug\ListaSimples.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\obj\Debug\ListaSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\obj\Debug\ListaSimples.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\obj\Debug\ListaSimples.exe
+C:\Users\User Samsung\source\repos\ListaSimples\ListaSimples\obj\Debug\ListaSimples.pdb
