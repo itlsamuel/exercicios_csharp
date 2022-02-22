@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\User Samsung\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
