@@ -1,0 +1,8 @@
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\User Samsung\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
