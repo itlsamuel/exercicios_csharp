@@ -1,0 +1,3 @@
+C:\Users\User Samsung\source\repos\Char\Char\obj\Debug\Char.csproj.AssemblyReference.cache
+C:\Users\User Samsung\source\repos\Char\Char\obj\Debug\Char.csproj.SuggestedBindingRedirects.cache
+C:\Users\User Samsung\source\repos\Char\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
